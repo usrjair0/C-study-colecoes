@@ -1,7 +1,0 @@
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\ArrayList\bin\Debug\ArrayList.exe.config
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\ArrayList\bin\Debug\ArrayList.exe
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\ArrayList\bin\Debug\ArrayList.pdb
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\ArrayList\obj\Debug\ArrayList.csproj.AssemblyReference.cache
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\ArrayList\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\ArrayList\obj\Debug\ArrayList.exe
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\ArrayList\obj\Debug\ArrayList.pdb

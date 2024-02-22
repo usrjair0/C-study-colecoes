@@ -4,27 +4,28 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace pilha
+namespace Pilha
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int[] z = { 1, 3, 6 };
-            Stack<int> pilha = new Stack<int>();//fila
-            pilha.Push(8);
-            pilha.Push(9);
-            pilha.Push(5);
-            pilha.Push(-80); 
+            Stack<int> pilha1 = new Stack<int>();
+            pilha1.Push(8);
+            pilha1.Push(9);
+            pilha1.Push(5);
+            pilha1.Push(-80);
 
-            int x = pilha.ElementAt(3);
-            int y = pilha.Pop();
+            int x = pilha1.ElementAt(3);
+            int y = pilha1.Pop();
 
-            List<int> list = new List<int>();
-            list.Insert(0, 8);
-            list.Insert(0, 9);
-            list.Insert(0, 5);
-            list.Insert(0, -80);
+            List<int> lista1 = new List<int>();
+            lista1.Insert(0, 8);
+            lista1.Insert(0, 9);
+            lista1.Insert(0, 5);
+            lista1.Insert(0, -80);
+
+            lista1.RemoveAt(0);
         }
     }
 }

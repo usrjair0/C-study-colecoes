@@ -1,7 +1,0 @@
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\ArrayValores\bin\Debug\ArrayValores.exe.config
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\ArrayValores\bin\Debug\ArrayValores.exe
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\ArrayValores\bin\Debug\ArrayValores.pdb
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\ArrayValores\obj\Debug\ArrayValores.csproj.AssemblyReference.cache
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\ArrayValores\obj\Debug\ArrayValores.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\ArrayValores\obj\Debug\ArrayValores.exe
-C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\ArrayValores\obj\Debug\ArrayValores.pdb

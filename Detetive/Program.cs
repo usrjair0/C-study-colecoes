@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Detetive
 {
@@ -10,44 +6,37 @@ namespace Detetive
     {
         static void Main(string[] args)
         {
-            bool[] resposta = new bool[5];
+            Console.WriteLine("--Detetive--");
 
-            Console.WriteLine("Projeto Detetive");
-            Console.WriteLine("Telefonou para a vítima?");
-            resposta[0] = Console.ReadLine().ToLower() == "sim";
-            Console.WriteLine("Esteve no local do crime?");
-            resposta[1] = Console.ReadLine().ToLower() == "sim";
-            Console.WriteLine("Mora perto da vítima?");
-            resposta[2] = Console.ReadLine().ToLower() == "sim";
-            Console.WriteLine("Devia para a vítima?");
-            resposta[3] = Console.ReadLine().ToLower() == "sim";
-            Console.WriteLine("Já trabalhou com a vítima?");
-            resposta[4] = Console.ReadLine().ToLower() == "sim";
-            int cont = 0;
-            for (int i = 0; i < resposta.Length; i++)
-            {
-                if (resposta[i]) { cont++; }
+            string[] perguntinhas = {
+                "Telefonou para a vítima? | SIM = 1 NÃO = 0:",
+                "Esteve no local do crime? | SIM = 1 NÃO = 0:",
+                "Mora perto da vítima? | SIM = 1 NÃO = 0:",
+                "Devia para a vítima? | SIM = 1 NÃO = 0:",
+                "Já trabalhou com a vítima? | SIM = 1 NÃO = 0:"
+            };
+
+            string[] veredicto = {
+                "Inocente",
+                "Inocente",
+                "Suspeito",
+                "Cumplice",
+                "Cumplice",
+                "Assasino"
+            };
+
+            int contadorRespostas = 0;
+
+            for (int i = 0; i < perguntinhas.Length; i++)
+            {                
+                Console.Write($"{perguntinhas[i]}");
+                contadorRespostas += int.Parse(Console.ReadLine());
             }
-            switch (cont)
-            {
-                case 0:
-                case 1:
-                    Console.WriteLine("inocente");
-                    break;
-                case 2:
-                    Console.WriteLine("suspeita");
-                    break;
-                case 3:
-                case 4:
-                    Console.WriteLine("cumplice");
-                    break;
-                case 5:
-                    Console.WriteLine("assassino");
-                    break;
-            }
-            Console.Write("Pressione qqer tecla para encerrar");
-            Console.ReadKey();
+
+            Console.WriteLine($"{veredicto[contadorRespostas]}");
+
+            Console.WriteLine("--Pressione ENTER para encerrar--");
+            Console.ReadLine();
         }
-    }
     }
 }

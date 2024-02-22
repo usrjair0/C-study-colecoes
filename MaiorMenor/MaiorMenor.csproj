@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F6B32DCE-0006-4D01-83ED-79F26D8E00A1}</ProjectGuid>
+    <ProjectGuid>{7E2FA41C-87AF-4803-866B-A67DBEE10C61}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>MaiorMenor</RootNamespace>
     <AssemblyName>MaiorMenor</AssemblyName>
