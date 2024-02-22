@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Pilha\bin\Debug\Pilha.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Pilha\bin\Debug\Pilha.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Pilha\bin\Debug\Pilha.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Pilha\obj\Debug\Pilha.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Pilha\obj\Debug\Pilha.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Pilha\obj\Debug\Pilha.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Pilha\obj\Debug\Pilha.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Pilha\obj\Debug\Pilha.pdb

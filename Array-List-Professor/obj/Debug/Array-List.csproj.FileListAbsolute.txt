@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Array-List\bin\Debug\Array-List.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Array-List\bin\Debug\Array-List.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Array-List\bin\Debug\Array-List.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Array-List\obj\Debug\Array-List.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Array-List\obj\Debug\Array-List.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Array-List\obj\Debug\Array-List.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Array-List\obj\Debug\Array-List.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Array-List\obj\Debug\Array-List.pdb

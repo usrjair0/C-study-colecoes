@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Lista\bin\Debug\Lista.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Lista\bin\Debug\Lista.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Lista\bin\Debug\Lista.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Lista\obj\Debug\Lista.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Lista\obj\Debug\Lista.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Lista\obj\Debug\Lista.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Lista\obj\Debug\Lista.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Lista\obj\Debug\Lista.pdb

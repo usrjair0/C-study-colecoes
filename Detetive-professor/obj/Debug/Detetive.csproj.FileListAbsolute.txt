@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Detetive\bin\Debug\Detetive.exe.config
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Detetive\bin\Debug\Detetive.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Detetive\bin\Debug\Detetive.pdb
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Detetive\obj\Debug\Detetive.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Detetive\obj\Debug\Detetive.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Detetive\obj\Debug\Detetive.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Detetive\obj\Debug\Detetive.exe
+D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\Detetive\obj\Debug\Detetive.pdb

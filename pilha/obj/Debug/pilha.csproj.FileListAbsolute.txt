@@ -1,0 +1,7 @@
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\pilha\obj\Debug\pilha.csproj.AssemblyReference.cache
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\pilha\obj\Debug\pilha.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\pilha\bin\Debug\pilha.exe.config
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\pilha\bin\Debug\pilha.exe
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\pilha\bin\Debug\pilha.pdb
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\pilha\obj\Debug\pilha.exe
+C:\Users\User\Documents\JN Moura curso\projetos\calculadora- aula 2- 25012024\Basico\pilha\obj\Debug\pilha.pdb
