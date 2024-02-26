@@ -1,1 +1,1 @@
-Estudos C# coleções 
+Estudos C# coleções.
