@@ -21,6 +21,7 @@ namespace Fila_Pilha
                 continuar = int.Parse(Console.ReadLine());
 
             }
+
             while (continuar != 2);
 
             while (fila.Count > 0)
