@@ -1,0 +1,7 @@
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\FilaDoBanco\bin\Debug\FilaDoBanco.exe.config
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\FilaDoBanco\bin\Debug\FilaDoBanco.exe
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\FilaDoBanco\bin\Debug\FilaDoBanco.pdb
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\FilaDoBanco\obj\Debug\FilaDoBanco.csproj.AssemblyReference.cache
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\FilaDoBanco\obj\Debug\FilaDoBanco.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\FilaDoBanco\obj\Debug\FilaDoBanco.exe
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\FilaDoBanco\obj\Debug\FilaDoBanco.pdb

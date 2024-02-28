@@ -6,3 +6,10 @@ D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\ArrayValores\obj\Deb
 D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\ArrayValores\obj\Debug\ArrayValores.csproj.CoreCompileInputs.cache
 D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\ArrayValores\obj\Debug\ArrayValores.exe
 D:\Cursos\moura\.net-angular-2024-turma06\projetos\Colecoes\ArrayValores\obj\Debug\ArrayValores.pdb
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\ArrayValores\bin\Debug\ArrayValores.exe.config
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\ArrayValores\bin\Debug\ArrayValores.exe
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\ArrayValores\bin\Debug\ArrayValores.pdb
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\ArrayValores\obj\Debug\ArrayValores.csproj.AssemblyReference.cache
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\ArrayValores\obj\Debug\ArrayValores.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\ArrayValores\obj\Debug\ArrayValores.exe
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\ArrayValores\obj\Debug\ArrayValores.pdb
