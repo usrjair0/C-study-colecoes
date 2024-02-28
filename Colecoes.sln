@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detetive_my", "Detetive_my\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilaDoBanco", "FilaDoBanco\FilaDoBanco.csproj", "{03798575-6C09-452E-ABE4-56FDC65BDEAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fila_Pilha", "Fila_Pilha\Fila_Pilha.csproj", "{A0931208-F0C1-4A88-B43E-E5847DC01D56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -121,6 +123,14 @@ Global
 		{03798575-6C09-452E-ABE4-56FDC65BDEAF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{03798575-6C09-452E-ABE4-56FDC65BDEAF}.Release|x86.ActiveCfg = Release|Any CPU
 		{03798575-6C09-452E-ABE4-56FDC65BDEAF}.Release|x86.Build.0 = Release|Any CPU
+		{A0931208-F0C1-4A88-B43E-E5847DC01D56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0931208-F0C1-4A88-B43E-E5847DC01D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0931208-F0C1-4A88-B43E-E5847DC01D56}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A0931208-F0C1-4A88-B43E-E5847DC01D56}.Debug|x86.Build.0 = Debug|Any CPU
+		{A0931208-F0C1-4A88-B43E-E5847DC01D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0931208-F0C1-4A88-B43E-E5847DC01D56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0931208-F0C1-4A88-B43E-E5847DC01D56}.Release|x86.ActiveCfg = Release|Any CPU
+		{A0931208-F0C1-4A88-B43E-E5847DC01D56}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
