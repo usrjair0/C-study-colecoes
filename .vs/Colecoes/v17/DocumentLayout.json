@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Documents\\JN Moura curso\\projetos\\Colecoes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3908B23-2CED-4054-96A7-B15ED727AF67}|MegaSena_Hashset\\MegaSena_Hashset.csproj|c:\\users\\user\\documents\\jn moura curso\\projetos\\colecoes\\megasena_hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3908B23-2CED-4054-96A7-B15ED727AF67}|MegaSena_Hashset\\MegaSena_Hashset.csproj|solutionrelative:megasena_hashset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BB11CCDF-C5D9-4638-8D61-DD7684192E3E}|MegaSena\\MegaSena.csproj|c:\\users\\user\\documents\\jn moura curso\\projetos\\colecoes\\megasena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB11CCDF-C5D9-4638-8D61-DD7684192E3E}|MegaSena\\MegaSena.csproj|solutionrelative:megasena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03798575-6C09-452E-ABE4-56FDC65BDEAF}|FilaDoBanco\\FilaDoBanco.csproj|C:\\Users\\User\\Documents\\JN Moura curso\\projetos\\Colecoes\\filadobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03798575-6C09-452E-ABE4-56FDC65BDEAF}|FilaDoBanco\\FilaDoBanco.csproj|solutionrelative:filadobanco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72333432-0FB2-406E-95D3-06BEF0C43E0A}|Fun\u00E7\u00E3o\\Fun\u00E7\u00E3o.csproj|c:\\users\\user\\documents\\jn moura curso\\projetos\\colecoes\\fun\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72333432-0FB2-406E-95D3-06BEF0C43E0A}|Fun\u00E7\u00E3o\\Fun\u00E7\u00E3o.csproj|solutionrelative:fun\u00E7\u00E3o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,39 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\projetos\\Colecoes\\MegaSena_Hashset\\Program.cs",
-              "RelativeDocumentMoniker": "MegaSena_Hashset\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\JN Moura curso\\projetos\\Colecoes\\MegaSena_Hashset\\Program.cs",
-              "RelativeToolTip": "MegaSena_Hashset\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAANAAAA",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\projetos\\Colecoes\\Fun\u00E7\u00E3o\\Program.cs",
+              "RelativeDocumentMoniker": "Fun\u00E7\u00E3o\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\JN Moura curso\\projetos\\Colecoes\\Fun\u00E7\u00E3o\\Program.cs*",
+              "RelativeToolTip": "Fun\u00E7\u00E3o\\Program.cs*",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA3wBsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T12:54:24.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\projetos\\Colecoes\\MegaSena\\Program.cs",
-              "RelativeDocumentMoniker": "MegaSena\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\JN Moura curso\\projetos\\Colecoes\\MegaSena\\Program.cs",
-              "RelativeToolTip": "MegaSena\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAADwvzQAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T11:24:09.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Documents\\JN Moura curso\\projetos\\Colecoes\\FilaDoBanco\\Program.cs",
-              "RelativeDocumentMoniker": "FilaDoBanco\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Documents\\JN Moura curso\\projetos\\Colecoes\\FilaDoBanco\\Program.cs",
-              "RelativeToolTip": "FilaDoBanco\\Program.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAgwD4AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T01:33:49.43Z",
+              "WhenOpened": "2024-02-29T13:37:36.305Z",
               "EditorCaption": ""
             }
           ]

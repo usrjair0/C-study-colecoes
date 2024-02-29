@@ -1,0 +1,7 @@
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\Função\bin\Debug\Função.exe.config
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\Função\bin\Debug\Função.exe
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\Função\bin\Debug\Função.pdb
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\Função\obj\Debug\Função.csproj.AssemblyReference.cache
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\Função\obj\Debug\Função.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\Função\obj\Debug\Função.exe
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\Função\obj\Debug\Função.pdb

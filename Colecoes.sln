@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaSena", "MegaSena\MegaSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MegaSena_Hashset", "MegaSena_Hashset\MegaSena_Hashset.csproj", "{F3908B23-2CED-4054-96A7-B15ED727AF67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Função", "Função\Função.csproj", "{72333432-0FB2-406E-95D3-06BEF0C43E0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,6 +153,14 @@ Global
 		{F3908B23-2CED-4054-96A7-B15ED727AF67}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F3908B23-2CED-4054-96A7-B15ED727AF67}.Release|x86.ActiveCfg = Release|Any CPU
 		{F3908B23-2CED-4054-96A7-B15ED727AF67}.Release|x86.Build.0 = Release|Any CPU
+		{72333432-0FB2-406E-95D3-06BEF0C43E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72333432-0FB2-406E-95D3-06BEF0C43E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72333432-0FB2-406E-95D3-06BEF0C43E0A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{72333432-0FB2-406E-95D3-06BEF0C43E0A}.Debug|x86.Build.0 = Debug|Any CPU
+		{72333432-0FB2-406E-95D3-06BEF0C43E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72333432-0FB2-406E-95D3-06BEF0C43E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72333432-0FB2-406E-95D3-06BEF0C43E0A}.Release|x86.ActiveCfg = Release|Any CPU
+		{72333432-0FB2-406E-95D3-06BEF0C43E0A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
