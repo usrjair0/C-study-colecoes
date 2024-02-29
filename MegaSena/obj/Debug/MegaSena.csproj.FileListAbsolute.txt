@@ -1,0 +1,7 @@
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\MegaSena\bin\Debug\MegaSena.exe.config
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\MegaSena\bin\Debug\MegaSena.exe
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\MegaSena\bin\Debug\MegaSena.pdb
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\MegaSena\obj\Debug\MegaSena.csproj.AssemblyReference.cache
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\MegaSena\obj\Debug\MegaSena.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\MegaSena\obj\Debug\MegaSena.exe
+C:\Users\User\Documents\JN Moura curso\projetos\Colecoes\MegaSena\obj\Debug\MegaSena.pdb
